@@ -1074,6 +1074,10 @@
     font-size: 13px !important;
   }
 
+  .search-bar-container{
+    margin-top: 20px;
+  }
+
   /* Adjust conditions font size */
   .weather-conditions {
     font-size: 13px !important;
